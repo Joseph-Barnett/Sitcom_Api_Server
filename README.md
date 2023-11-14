@@ -1,6 +1,6 @@
 # Welcome to the Sitcoms Api installation and user guide
 
-# to use this api simply follow the steps bellow
+# To use this api simply follow the steps bellow
 
 - Open Git Bash
 - Create an empty folder somewhere of your choice
